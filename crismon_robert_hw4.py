@@ -3,7 +3,7 @@
 #Description: (Square and Circle Generator) 
 # www
 #Author: (Robert Crismon) 
-#WSU ID: (011464952) 
+# 
 #Completion Time: (2-3 hours) 
 # 
 #In completing this program, I obtained help or worked with the following: 
